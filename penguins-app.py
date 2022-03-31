@@ -1,8 +1,5 @@
 import streamlit as st
 import pandas as pd
-import dtale
-from dtale.views import startup
-from dtale.app import get_instance
 import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
